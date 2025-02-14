@@ -150,7 +150,6 @@ allure-results
 # idea / vscode / macos
 .idea
 .DS_Store
-.vscode
 
 key.yaml
 /data/
@@ -195,3 +194,6 @@ metagpt/ext/sela/results/*
 
 metagpt/ext/aflow/data
 metagpt/ext/aflow/scripts/optimized
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
